@@ -10,5 +10,5 @@
   "privileged": ["NET_ADMIN"],
   "devices": ["/dev/ttyAMA0:/dev/ttyAMA0:rwm"],
   "options": {},
-  "schema": {},
+  "schema": {}
 }
