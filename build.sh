@@ -4,4 +4,4 @@ docker run --rm --privileged \
     --all \
     -r https://github.com/mwbehr1/bluetooth-bcm43xx-3bpl.git \
     -b master \
-    -t bluetooth-bcm43xx-3bp
+    -t Bluetooth-BCM43xx-3Bp
