@@ -11,5 +11,4 @@
   "devices": ["/dev/ttyAMA0:/dev/ttyAMA0:rwm"],
   "options": {},
   "schema": {},
-  "image": "mwbehr1/bluetooth-bcm43xx-3bpl-{arch}"
 }
